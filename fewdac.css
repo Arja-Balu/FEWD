@@ -1,0 +1,31 @@
+body{
+    background: url(eternity.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#ion{
+    background-color: #af754c;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius:25px;
+}
+.ion1{
+    margin-top: 310px;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    opacity: 0.5;
+}
+footer{
+    margin-top: 200px;
+}
+input[type="button"]{
+    font-style: italic;
+}
